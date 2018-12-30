@@ -8,3 +8,66 @@ Installation :
   
 Usage :
  Current stage just addition of two integer is possible.
+
+ <b>ToDo: </b>
+ 
+<table class="tg">
+  <tr>
+    <th>Job</th>
+    <th>Status</th>
+    <th>create date</th>
+    <th>modified date</th>
+  </tr>
+  <tr>
+    <td>Int Addidtion</td>
+    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
+    <td>29 Dec 2018</td>
+    <td>30 Dec 2018</td>
+  </tr>
+  <tr>
+    <td>Float addition</td>
+    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
+    <td>30 Dec 2018</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Int Substraction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Float Substratction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Int Multiplication</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Float Multiplication</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Int Division</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Float Division</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan=4><b>Tobe continnued...</b></td>
+    
+  </tr>
+</table>
