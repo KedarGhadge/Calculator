@@ -1,12 +1,13 @@
 # Calculator
-Project Name: Simple Calculator
-Description : 
+<h3>Project Name: Simple Calculator</h3>
+
+<b>Description : </b>
   A simple calculatro used to calculate day today's life calculations.
   
-Installation : 
+<b>Installation : </b>
   As it is very basic and first project right now no need to instllation directly download files and run main.py it is a console application.Required Python 3.7 on your system.
   
-Usage :
+<b>Usage :</b>
  Current stage just addition of two integer is possible.
 
  <b>ToDo: </b>
