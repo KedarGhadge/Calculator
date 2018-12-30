@@ -4,8 +4,8 @@ class Accept():
 		try:
 			self.aNumber=input(str)
 			objValidation=Validation.CheckNumber()
-			str,self.Number=objValidation.isNumber(self.aNumber)
-			return str,self.Number
+			self.Number=objValidation.isNumber(self.aNumber)
+			return self.Number
 		except Exception as e:
 			# print(e)
 			# print(str(e))
