@@ -1,5 +1,6 @@
 import Addition
 import Subtraction
+import Multiplication
 import AcceptNumber
 class Calc:
 	s=AcceptNumber.Accept()
@@ -14,5 +15,11 @@ class Calc:
 	oSubtract=Subtraction.Subtract(num1,num2)
 	sub=oSubtract.allSub()
 	print("Subtraction of two numbers",sub)
-	input()
+	
+	#Multiplicaion
+	oMultiply=Multiplication.Multiply(num1,num2)
+	mul=oMultiply.allMul()
+	print("Multiplication of two numbers",mul)
+	
+	
 	

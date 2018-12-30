@@ -34,24 +34,24 @@
   <tr>
     <td>Int Substraction</td>
     <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td></td>
+    <td>30 Dec 2018</td>
     <td></td>
   </tr>
   <tr>
     <td>Float Substratction</td>
     <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td></td>
+    <td>30 Dec 2018</td>
     <td></td>
   </tr>
   <tr>
     <td>Int Multiplication</td>
-    <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
+    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Float Multiplication</td>
-    <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
+    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
     <td></td>
     <td></td>
   </tr>
