@@ -8,7 +8,7 @@
   As it is very basic and first project right now no need to instllation directly download files and run main.py it is a console application.Required Python 3.7 on your system.
   
 <b>Usage :</b>
- Current stage just addition of two integer is possible.
+ It will perform all basic operation like Sum,Sub,Div,Mul
 
  <b>ToDo: </b>
  
@@ -46,25 +46,25 @@
   <tr>
     <td>Int Multiplication</td>
     <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td></td>
+    <td>30 Dec 2018</td>
     <td></td>
   </tr>
   <tr>
     <td>Float Multiplication</td>
     <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td></td>
+    <td>30 Dec 2018</td>
     <td></td>
   </tr>
   <tr>
     <td>Int Division</td>
-    <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
-    <td></td>
+    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
+    <td>30 Dec 2018</td>
     <td></td>
   </tr>
   <tr>
     <td>Float Division</td>
-    <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
-    <td></td>
+    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
+    <td>30 Dec 2018</td>
     <td></td>
   </tr>
   <tr>

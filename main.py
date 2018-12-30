@@ -1,6 +1,7 @@
 import Addition
 import Subtraction
 import Multiplication
+import Division
 import AcceptNumber
 class Calc:
 	s=AcceptNumber.Accept()
@@ -21,5 +22,8 @@ class Calc:
 	mul=oMultiply.allMul()
 	print("Multiplication of two numbers",mul)
 	
-	
+	#Division
+	oDivision=Division.Division(num1,num2)
+	div=oDivision.allDiv()
+	print("Division of two numbers",div)
 	
