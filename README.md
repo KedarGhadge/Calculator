@@ -33,25 +33,25 @@
   </tr>
   <tr>
     <td>Int Substraction</td>
-    <td></td>
+    <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Float Substratction</td>
-    <td></td>
+    <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Int Multiplication</td>
-    <td></td>
+    <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Float Multiplication</td>
-    <td></td>
+    <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
     <td></td>
     <td></td>
   </tr>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Float Division</td>
-    <td></td>
+    <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
     <td></td>
     <td></td>
   </tr>
