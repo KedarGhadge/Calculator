@@ -1,9 +1,9 @@
-import Arithmatic.Validation
+import Arithmatic.sub.Validation
 class Accept():
 	def acceptNumber(self,str):
 		try:
 			self.aNumber=input(str)
-			objValidation=Arithmatic.Validation.CheckNumber()
+			objValidation=Arithmatic.sub.Validation.CheckNumber()
 			self.Number=objValidation.isNumber(self.aNumber)
 			return self.Number
 		except Exception as e:

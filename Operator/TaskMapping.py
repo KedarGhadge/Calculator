@@ -1,3 +1,4 @@
+import Arithmatic.master.ArithmaticHandler
 
 class Perform(object):
 	#Switch case to select an operation to be perform
@@ -7,7 +8,9 @@ class Perform(object):
 		return method()
 		
 	def operated_1(self):
-		return "Arithmatic"
+		oMathematician=Arithmatic.master.ArithmaticHandler.Mathematics()
+		oMathematician.operation()
+		return "you performed Arithmatic operation"
 		
 	def operated_2(self):
 		return "date"
