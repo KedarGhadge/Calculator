@@ -4,7 +4,14 @@ import Arithmatic.Multiplication
 import Arithmatic.Division
 import Arithmatic.AcceptNumber
 import Arithmatic.Power
+import Operator.TaskMapping
 class Calc:
+	#choose a operation you have to perform:
+	regulator = input("Choose operation\n1. Arithmatic\n2. Date\n:=>")
+	oMonitor=Operator.TaskMapping.Perform()
+	output=oMonitor.operates(regulator)
+	print("you select :",output)
+
 	s=Arithmatic.AcceptNumber.Accept()
 	num1=s.acceptNumber("Enter first number : ")
 	num2=s.acceptNumber("Enter 2nd number : ")
