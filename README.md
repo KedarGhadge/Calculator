@@ -22,22 +22,27 @@
   <tr>
     <td>Seprate the Arithmatic operation and Date operation</td>
     <td><img src="http://progressed.io/bar/50" alt="" border=3 height=20 width=100></img></td>
-    <td>29 Dec 2018</td>
-    <td>30 Dec 2018</td>
+    <td>29/01/2019</td>
+    <td>30/01/2019</td>
   </tr>
   <tr>
     <td>Write code for Arithmatic operation</td>
     <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td>30 Dec 2018</td>
-    <td></td>
+    <td>29/01/2019</td>
+    <td>30/01/2019</td>
   </tr>
   <tr>
     <td>Write code for Date operation</td>
     <td><img src="http://progressed.io/bar/0" alt="" border=3 height=20 width=100></img></td>
-    <td>30 Dec 2018</td>
+    <td></td>
     <td></td>
   </tr>
-
+  <tr>
+    <td>Add try catch block for all over the code</td>
+    <td><img src="http://progressed.io/bar/10" alt="" border=3 height=20 width=100></img></td>
+    <td></td>
+    <td></td>
+  </tr>
  
   <tr>
     <td colspan=4><b>Tobe continnued...</b></td>
