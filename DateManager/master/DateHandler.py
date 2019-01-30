@@ -1,7 +1,5 @@
-from datetime import date
-from datetime import time
-from datetime import datetime
+import DateManager.sub.Today
 class CalendarMaster:
 	def operation(self):
-		today=date.today()
-		print("Today's date is",today)
+		oToday=DateManager.sub.Today.ToDate()
+		oToday.getToday()
