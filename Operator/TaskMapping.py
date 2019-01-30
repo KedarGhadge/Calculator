@@ -1,5 +1,5 @@
 import Arithmatic.master.ArithmaticHandler
-
+import DateManager.master.DateHandler
 class Perform(object):
 	#Switch case to select an operation to be perform
 	def operates(self,choosen):
@@ -13,4 +13,6 @@ class Perform(object):
 		return "you performed Arithmatic operation"
 		
 	def operated_2(self):
+		oCalendarGuru=DateManager.master.DateHandler.CalendarMaster()
+		oCalendarGuru.operation()
 		return "date"
