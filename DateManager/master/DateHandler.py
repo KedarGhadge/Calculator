@@ -4,9 +4,10 @@ class CalendarMaster:
 		try:
 			oToday=DateManager.sub.Today.ToDate()
 			oToday.getToday()
+			oToday.getTime()
 		except Exception as e:
 			# print(e)
-			# print(str(e))
+			print(str(e))
 			# print(e.args)
-			print("Exception occurred in DateHandler exiting a code"+e)
+			#print("Exception occurred in DateHandler exiting a code"+e)
 			exit(1)
