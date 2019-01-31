@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>Add try catch block for all over the code</td>
-    <td><img src="http://progressed.io/bar/20" alt="" border=3 height=20 width=100></img></td>
+    <td><img src="http://progressed.io/bar/30" alt="" border=3 height=20 width=100></img></td>
     <td></td>
     <td></td>
   </tr>
