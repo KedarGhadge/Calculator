@@ -18,6 +18,10 @@ class CalendarMaster:
 			"""Find out difference between two days"""
 			years,weeks,days=oDayCalculator.dateDifference()
 			print("difference in two dates :",years+" years | "+weeks+" weeks | "+days+" days")
+
+			"""After adding days in particular date find out the date"""
+			addit=input("Enter number of days to add")
+			oDayCalculator.dateAdder(addit)
 		except Exception as e:
 			# print(e)
 			print(str(e))

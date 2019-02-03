@@ -1,8 +1,10 @@
 from datetime import date
 from datetime import time
 from datetime import datetime
+from datetime import timedelta
 import DateManager.sub.DateAccepter
 import DateManager.sub.Today
+import DateManager.divisional_Operator.TasksDivision
 
 class Calculate(object):
 
@@ -38,4 +40,14 @@ class Calculate(object):
             days=int(int(diffDate)%365%7)
             return str(years),str(weeks),str(days)
         except Exception as e:
+                print(str(e))
+
+    def dateAdder(self,addit):
+            try:
+                choose=input("1. Want to add in today's date \n2. Want to add in seprate date\n")
+                operator=DateManager.divisional_Operator.TasksDivision.TaskOperation()
+                gdate=operator.chooseLabor("Date"+str(choose))
+                afteradded=gdate+timedelta(days=int(addit))
+                print(afteradded)
+            except Exception as e:
                 print(str(e))
