@@ -51,3 +51,13 @@ class Calculate(object):
                 print(afteradded)
             except Exception as e:
                 print(str(e))
+
+    def dateSubtractor(self,remover):
+        try:
+            choose=input("1. Want to add in today's date \n2. Want to add in seprate date\n")
+            operator=DateManager.divisional_Operator.TasksDivision.TaskOperation()
+            gdate=operator.chooseLabor("Date"+str(choose))
+            afterremove=gdate-timedelta(days=int(remover))
+            print(afterremove)
+        except Exception as e:
+            print(str(e))
