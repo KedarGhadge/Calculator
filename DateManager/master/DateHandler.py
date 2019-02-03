@@ -10,10 +10,14 @@ class CalendarMaster:
 			totime=oToday.getTime()
 			print("Current time : ", totime)
 
-			"""Get Difference between 2 dates"""
+			"""Findout age of anything"""
 			oDayCalculator=DateManager.sub.DayCalculator.Calculate()
 			years,weeks,days=oDayCalculator.CheckAge()
 			print("age of respective object/person is ",years+" years | "+weeks+" weeks | "+days+" days")
+
+			"""Find out difference between two days"""
+			years,weeks,days=oDayCalculator.dateDifference()
+			print("difference in two dates :",years+" years | "+weeks+" weeks | "+days+" days")
 		except Exception as e:
 			# print(e)
 			print(str(e))
