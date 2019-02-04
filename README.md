@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Seprate the Arithmatic operation and Date operation</td>
-    <td><img src="http://progressed.io/bar/60" alt="" border=3 height=20 width=100></img></td>
+    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
     <td>29/01/2019</td>
     <td>30/01/2019</td>
   </tr>
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>Write code for Date operation</td>
-    <td><img src="http://progressed.io/bar/40" alt="" border=3 height=20 width=100></img></td>
+    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
     <td>31/01/2019</td>
     <td></td>
   </tr>
