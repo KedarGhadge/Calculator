@@ -35,13 +35,13 @@
     <td>Write code for Date operation</td>
     <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
     <td>31/01/2019</td>
-    <td></td>
+    <td>05/02/2019</td>
   </tr>
   <tr>
     <td>Add try catch block for all over the code</td>
     <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td></td>
-    <td></td>
+    <td>01/02/2019</td>
+    <td>05/02/2019</td>
   </tr>
 
   <tr>
