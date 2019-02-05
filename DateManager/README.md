@@ -1,33 +1,28 @@
 <table class="tg">
   <tr>
-    <th>Job</th>
-    <th>Status</th>
-    <th>create date</th>
-    <th>modified date</th>
+    <th>Date Manager</th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
-    <td>Seprate the Arithmatic operation and Date operation</td>
-    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td>29/01/2019</td>
-    <td>30/01/2019</td>
+    <td></td>
+    <td>master</td>
+    <td>DateHandler.py</td>
   </tr>
   <tr>
-    <td>Write code for Arithmatic operation</td>
-    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td>29/01/2019</td>
-    <td>30/01/2019</td>
+    <td></td>
+    <td>sub</img></td>
+    <td>DateAccepter.py</td>
   </tr>
   <tr>
-    <td>Write code for Date operation</td>
-    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td>31/01/2019</td>
-    <td>05/02/2019</td>
+    <td></td>
+    <td></td>
+    <td>DayCalculator.py</td>
   </tr>
   <tr>
-    <td>Add try catch block for all over the code</td>
-    <td><img src="http://progressed.io/bar/100" alt="" border=3 height=20 width=100></img></td>
-    <td>01/02/2019</td>
-    <td>05/02/2019</td>
+    <td></td>
+    <td></td>
+    <td>Today.py</td>
   </tr>
 
   <tr>
