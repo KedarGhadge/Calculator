@@ -52,7 +52,6 @@
           <td></td>
           <td>sub</td>
           <td>DateAccepter.py</td>
-          <td></td>
         </tr>
         <tr>
           <td></td>
