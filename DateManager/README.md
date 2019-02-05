@@ -1,7 +1,7 @@
 <h3>Date Operation</h3>
 
-### Folder strctures
-      <table>
+
+      <table  class="tg">
         <tr>
           <th>Date Manager<th>
           <th></th>
