@@ -24,51 +24,22 @@
     <td></td>
     <td>Today.py</td>
   </tr>
-
+  <tr>
+    <td></td>
+    <td>divisional_Operator</td>
+    <td>DateOperationSelection.py</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>TasksDivision.py</td>
+  </tr>
   <tr>
     <td colspan=4><b>Tobe continnued...</b></td>
 
   </tr>
 </table>
 
-
-      <table  class="tg">
-        <tr>
-          <th>Date Manager<th>
-          <th></th>
-          <th></th>
-        </tr>
-        <tr>
-          <td></td>
-          <td>master</td>
-          <td>DateHandler.py</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>sub</td>
-          <td>DateAccepter.py</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td></td>
-          <td>DayCalculator.py</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td></td>
-          <td>Today.py</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>divisional_Operator</td>
-          <td>DateOperationSelection.py</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td></td>
-          <td>TasksDivision.py</td>
-        </tr>
-      </table>
 
 #### 1. master
         contains DateHandler handles the various operation
