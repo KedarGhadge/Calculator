@@ -1,35 +1,33 @@
+<h3>DateManager</h3>
+
 <table class="tg">
   <tr>
-    <th>Date Manager</th>
-    <th></th>
-    <th></th>
+    <th colspan=4>Folder Structure</th>
   </tr>
   <tr>
-    <td></td>
+    <td rowspan=6></td>
     <td>master</td>
     <td>DateHandler.py</td>
   </tr>
   <tr>
-    <td></td>
+    <td>master</td>
+    <td>DateHandler.py</td>
+  </tr>
+  <tr>
     <td rowspan=3>sub</img></td>
     <td>DateAccepter.py</td>
   </tr>
   <tr>
-    <td></td>
     <td>DayCalculator.py</td>
   </tr>
   <tr>
-    <td></td>
     <td>Today.py</td>
   </tr>
   <tr>
-    <td></td>
     <td rowspan=2>divisional_Operator</td>
     <td>DateOperationSelection.py</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
     <td>TasksDivision.py</td>
   </tr>
   <tr>
