@@ -1,6 +1,6 @@
 <h3>Arithmatic Operation</h3>
 
-###Folder strctures
+### Folder strctures
       1. Master
       2. Sub
 
