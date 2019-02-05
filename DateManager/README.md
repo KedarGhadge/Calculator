@@ -11,22 +11,20 @@
   </tr>
   <tr>
     <td></td>
-    <td>sub</img></td>
+    <td rowspan=3>sub</img></td>
     <td>DateAccepter.py</td>
   </tr>
   <tr>
-    <td></td>
     <td></td>
     <td>DayCalculator.py</td>
   </tr>
   <tr>
     <td></td>
-    <td></td>
     <td>Today.py</td>
   </tr>
   <tr>
     <td></td>
-    <td>divisional_Operator</td>
+    <td rowspan=2>divisional_Operator</td>
     <td>DateOperationSelection.py</td>
   </tr>
   <tr>
