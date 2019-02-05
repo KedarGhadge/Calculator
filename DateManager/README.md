@@ -5,11 +5,7 @@
     <th colspan=4>Folder Structure</th>
   </tr>
   <tr>
-    <td rowspan=6></td>
-    <td>master</td>
-    <td>DateHandler.py</td>
-  </tr>
-  <tr>
+    <td rowspan=6>DateManager</td>
     <td>master</td>
     <td>DateHandler.py</td>
   </tr>
