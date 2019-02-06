@@ -1,5 +1,5 @@
 # Calculator
-<h3>Project Name: Simple Calculator</h3>
+<h3>Project Name: KdCalc</h3>
 
 <b>Description : </b>
   A simple calculator used to calculate day today's life calculations.
