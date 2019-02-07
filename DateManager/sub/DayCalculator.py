@@ -36,7 +36,7 @@ class Calculate(object):
             diffDate=(fDate-sDate).days #subtract 2 days
             #convert days into year,month and days
             years=int(int(diffDate)/365)
-            weeks=int((int(diffDate)%365)/7)-1
+            weeks=int((int(diffDate)%365)/7)
             days=int(int(diffDate)%365%7)
             return str(years),str(weeks),str(days)
         except Exception as e:
