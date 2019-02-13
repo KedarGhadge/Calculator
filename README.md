@@ -5,7 +5,7 @@
   A simple calculator used to calculate day today's life calculations.
 
 <b>Installation : </b>
-  As it is very basic and first project right now no need to instllation directly download files and run main.py it is a console application.Required Python 3.7 on your system.
+  As it is very basic and first project so, no need to install anything just directly download files and run main.py. It is a console application which requires Python 3.7 on your system.
 
 <b>Usage :</b>
  It will perform all basic operation like Sum,Sub,Div,Mul
